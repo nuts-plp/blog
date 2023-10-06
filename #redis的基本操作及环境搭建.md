@@ -460,7 +460,7 @@ dict的数据结构定义
 
 `zrem <key><value>`删除该集合中指定元素
 
-`zcount <key>min max`统计该集合中分数在min和max区间内元素数量
+xxxxxxxxxx8 1func main() {2    str := "hello 沙河"3    err := ioutil.WriteFile("./xx.txt", []byte(str), 0666)4    if err != nil {5        fmt.Println("write file failed, err:", err)6        return7    }8}go
 
 `zrank <key><value>`返回该元素在集合中排名（从0开始）
 
